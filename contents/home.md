@@ -1,4 +1,4 @@
-[![Boyi Xiao](https://img.shields.io/badge/Boyi Xiao-github-blue?logo=github)](https://github.com/Boyi Xiao)
+[![Boyi Xiao](https://img.shields.io/badge/Boyi%20Xiao-github-blue?logo=github)](https://github.com/boyjust)
 
 I'm currently pursuing a Bachelor's degree in Data Science and Big Data Technology at the School of Future Technology, South China University of Technology (SCUT), China.
 
