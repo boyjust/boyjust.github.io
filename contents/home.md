@@ -1,20 +1,16 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Bachelor's degree in Data Science and Big Data Technology at the School of Future Technology, South China University of Technology (SCUT), China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>1328678827@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
 **XX University**, Honours Bachelor of XX (XX – XX)  
 • GPA: XX/XX (top XX%)  
+**South China University of Technology**, Bachelor of Engineering in Data Science and Big Data Technology (2023 – 2027)  
+• GPA: 3.92 / 4.00 (Top 1.11%)  
+• School of Future Technology
 
 #### Research Interests  
-XX, XX, XX, XX.
+Multi-Agent Coordination, Point Cloud Denoising, 3D Scene Reconstruction.

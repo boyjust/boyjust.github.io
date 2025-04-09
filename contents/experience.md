@@ -1,21 +1,28 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+#### **Academic Experience**  
+**2023 – Present | South China University of Technology (SCUT)**
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Conducting undergraduate research under the University Innovation and Entrepreneurship Training Program.Current research centers around *View-Adaptive Real-Time Outdoor Scene Reconstruction Algorithm*.  
+Research areas include 3D scene reconstruction, point cloud denoising, and multi-agent collaboration.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+**Key Contributions**  
+- Co-authored the benchmark paper:  
+  **MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions**  
+  *Zeyu Huang, Juyuan Wang, Longfeng Chen, Leng Cai, Boyi Xiao, Yawen Zeng, Jin Xu*  
+  Submitted to **ACM Multimedia (ACM MM) 2025**.
+- Proposed 5 categories of challenging mobile agent instructions (multi-app, vague, interactive, etc.)  
+- Constructed a benchmark with 400 tasks covering 76 real-world mobile applications  
+- Designed a plug-and-play prompting module (Aider) achieving 25.77% improvement over baseline 
+
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+#### **科研经历**  
+**2023 – 至今｜华南理工大学**  
+参与多智能体系统、点云去噪与三维重建方向的研究，当前参与大创项目，围绕视角自适应的实时室外场景重建算法进行研究。  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+**主要贡献**  
+共同作者参与论文：  
+**MVISU-Bench: 面向现实世界任务的移动智能体基准测试**  
+- 论文已投稿至 ACM Multimedia 2025（ACM MM）。
+- 涵盖五类任务（如多应用、模糊、不当指令等），共构建 400 个任务，基于 76 个真实 APP。 
+- 论文提出模块 Aider，提升任务完成率达 25.77%。   
